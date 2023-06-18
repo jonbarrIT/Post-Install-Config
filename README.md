@@ -18,34 +18,41 @@ This section outlines the post-install configuration of the open-source help des
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- PHP Manager
-- Heidi SQL 12.3.0
-- osTicket V1
-- Rewrite AMD
-- VC Redist
+- Configure New Users
+- Configure New Roles and Access
+- Configure New Help Topic for End Users
+- Configure and Define SLA Protocols & Compliance
 
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qroRQAd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Creating and Managing New Agents. Define status and provide internal notes for Admin Users.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/P6STUHX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Creating and defining roles for users. Assign roles to users based on desired access and responibility.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/Gsqra5M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Creating and Managing Help Desk Topics for End Users and Customers. Priorties and Departments can be define to ensure SLA Compliance..
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/GSQZSdM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Creating and Managing SLA rules to ensure SLA compliance. Define severities, timeframes and grace periods
 </p>
 <br />
